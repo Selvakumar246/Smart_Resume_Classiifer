@@ -8,11 +8,11 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3.4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
 [![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
-[![License](https://img.shields.io/badge/License-MIT-green.style=for-the-badge)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 *An enterprise-grade, full-stack AI SaaS application that automates multi-class candidate resume classification, Applicant Tracking System (ATS) compliance scoring, job-description semantic matching, skill-gap planning, and AI-driven interview preparation.*
 
-[Features](#-key-features) • [System Architecture](#-system-architecture) • [Tech Stack](#-technology-stack) • [Quick Start](#-quick-start) • [ML Pipeline](#-ml-training-pipeline) • [API Reference](#-api-documentation)
+[Features](#-key-features) • [System Architecture](#-system-architecture) • [Tech Stack](#-technology-stack) • [Quick Start](#-quick-start-guide) • [ML Pipeline](#-ml-training-pipeline) • [API Reference](#-api-documentation)
 
 </div>
 
@@ -171,6 +171,36 @@ docker compose up --build
 
 ---
 
+## ⚙️ Configuration & Environment Variables
+
+Configure application settings by editing `backend/.env`:
+
+### Admin Account Creation
+Define authorized administrator emails before account registration:
+```env
+ADMIN_EMAILS=admin@example.com
+```
+
+### Google OAuth 2.0 Integration
+To enable Google Sign-In, populate your Google Cloud OAuth credentials:
+```env
+GOOGLE_CLIENT_ID=your-google-client-id.apps.googleusercontent.com
+GOOGLE_CLIENT_SECRET=your-google-client-secret
+GOOGLE_REDIRECT_URI=http://localhost:8000/api/v1/auth/google/callback
+```
+
+### Production PostgreSQL & Security
+For production deployments, switch to PostgreSQL and set strong secrets:
+```env
+DATABASE_URL=postgresql+psycopg://USER:PASSWORD@HOST:5432/DBNAME
+ENVIRONMENT=production
+JWT_SECRET=your-secure-random-jwt-secret-key
+CORS_ORIGINS=https://your-domain.com
+FRONTEND_URL=https://your-domain.com
+```
+
+---
+
 ## 🤖 ML Training Pipeline
 
 The platform includes a dedicated, reproducible pipeline for training custom supervised classifiers.
@@ -249,7 +279,7 @@ smart-resume-classification/
 
 ## 🤝 Contributing & Contact
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](../../issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the issues tab.
 
 Made with ❤️ by [Selvakumar](https://github.com/Selvakumar246) — *Elevating career tech with Artificial Intelligence.*
 
