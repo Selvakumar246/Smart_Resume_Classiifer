@@ -1,0 +1,33 @@
+{
+  "name": "Database Administrator",
+  "category": "Databases",
+  "description": "Managing, securing, optimizing, backing up, and troubleshooting relational and non-relational database systems.",
+  "core_skills": [
+    "SQL",
+    "PostgreSQL",
+    "MySQL",
+    "Oracle",
+    "Linux"
+  ],
+  "secondary_skills": [
+    "Redis",
+    "MongoDB",
+    "Cassandra",
+    "AWS",
+    "Scripting"
+  ],
+  "concepts": [
+    "Database Administration",
+    "Backup & Recovery",
+    "Query Optimization",
+    "High Availability"
+  ],
+  "experience_keywords": [
+    "dba",
+    "database administrator",
+    "database",
+    "tuning",
+    "optimization",
+    "backup"
+  ]
+}

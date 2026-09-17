@@ -1,0 +1,4 @@
+# Optional experimentation layer. Keep this separate because model packages are large.
+-r requirements.txt
+spacy==3.8.7
+sentence-transformers==5.0.0

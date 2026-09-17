@@ -1,0 +1,35 @@
+{
+  "name": "Machine Learning Engineer",
+  "category": "Data & AI",
+  "description": "Production machine learning, feature engineering, model training, evaluation, deployment and MLOps.",
+  "core_skills": [
+    "Python",
+    "Machine Learning",
+    "Deep Learning",
+    "PyTorch",
+    "TensorFlow",
+    "Scikit-learn"
+  ],
+  "secondary_skills": [
+    "MLOps",
+    "Docker",
+    "Kubernetes",
+    "Linux",
+    "SQL",
+    "Pandas"
+  ],
+  "concepts": [
+    "Model Serving",
+    "Feature Engineering",
+    "Neural Networks",
+    "Hyperparameter Tuning"
+  ],
+  "experience_keywords": [
+    "ml",
+    "machine learning",
+    "model deployment",
+    "training",
+    "pipeline",
+    "mlops"
+  ]
+}

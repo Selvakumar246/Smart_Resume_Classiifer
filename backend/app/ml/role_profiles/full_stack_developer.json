@@ -1,0 +1,35 @@
+{
+  "name": "Full Stack Developer",
+  "category": "Software Development",
+  "description": "End-to-end development of web applications, covering both frontend user interfaces and backend server/database systems.",
+  "core_skills": [
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "Node.js",
+    "Express.js",
+    "SQL",
+    "PostgreSQL"
+  ],
+  "secondary_skills": [
+    "Next.js",
+    "FastAPI",
+    "MongoDB",
+    "Docker",
+    "REST API",
+    "Tailwind CSS"
+  ],
+  "concepts": [
+    "Full Stack",
+    "Client-Server",
+    "API Integration",
+    "State Management"
+  ],
+  "experience_keywords": [
+    "full stack",
+    "end-to-end",
+    "frontend",
+    "backend",
+    "fullstack"
+  ]
+}

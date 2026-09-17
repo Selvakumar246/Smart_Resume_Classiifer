@@ -1,0 +1,1 @@
+from app.services.resume_quality.analyzer import run_quality_analysis

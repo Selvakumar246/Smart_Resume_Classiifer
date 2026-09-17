@@ -1,0 +1,34 @@
+{
+  "name": "DevOps Engineer",
+  "category": "Infrastructure",
+  "description": "CI/CD, infrastructure automation, containers, observability, release engineering and reliability.",
+  "core_skills": [
+    "Docker",
+    "Kubernetes",
+    "Terraform",
+    "Jenkins",
+    "GitHub Actions",
+    "Linux"
+  ],
+  "secondary_skills": [
+    "AWS",
+    "CI/CD",
+    "Ansible",
+    "Prometheus",
+    "Grafana"
+  ],
+  "concepts": [
+    "Infrastructure as Code",
+    "Continuous Integration",
+    "Monitoring",
+    "Automation"
+  ],
+  "experience_keywords": [
+    "devops",
+    "pipeline",
+    "ci/cd",
+    "automation",
+    "kubernetes",
+    "infrastructure"
+  ]
+}

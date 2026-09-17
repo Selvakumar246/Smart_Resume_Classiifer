@@ -1,0 +1,34 @@
+{
+  "name": "Data Analyst",
+  "category": "Data & AI",
+  "description": "Data collection, cleaning, processing, statistical analysis and generating business insights via reports and dashboards.",
+  "core_skills": [
+    "SQL",
+    "Excel",
+    "Python",
+    "Tableau",
+    "Power BI"
+  ],
+  "secondary_skills": [
+    "Pandas",
+    "NumPy",
+    "Statistics",
+    "Data Analysis",
+    "Matplotlib"
+  ],
+  "concepts": [
+    "Data Visualization",
+    "Reporting",
+    "Metrics",
+    "Dashboards",
+    "ETL"
+  ],
+  "experience_keywords": [
+    "analytics",
+    "analyst",
+    "insights",
+    "data",
+    "reporting",
+    "dashboard"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Data Scientist",
+  "category": "Data & AI",
+  "description": "Statistical analysis, experimentation, predictive modeling, data visualization and business insights.",
+  "core_skills": [
+    "Python",
+    "Pandas",
+    "NumPy",
+    "Statistics",
+    "Machine Learning",
+    "SQL"
+  ],
+  "secondary_skills": [
+    "Scikit-learn",
+    "Matplotlib",
+    "Seaborn",
+    "Tableau",
+    "R"
+  ],
+  "concepts": [
+    "Predictive Modeling",
+    "Hypothesis Testing",
+    "Regression",
+    "Classification"
+  ],
+  "experience_keywords": [
+    "data science",
+    "scientist",
+    "statistical",
+    "experiments",
+    "predictive"
+  ]
+}

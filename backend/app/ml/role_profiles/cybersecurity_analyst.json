@@ -1,0 +1,33 @@
+{
+  "name": "Cybersecurity Analyst",
+  "category": "Security & Networking",
+  "description": "Security operations, vulnerability assessment, secure systems, incident response and risk management.",
+  "core_skills": [
+    "Network Security",
+    "SIEM",
+    "Penetration Testing",
+    "OWASP",
+    "Linux"
+  ],
+  "secondary_skills": [
+    "Wireshark",
+    "Burp Suite",
+    "Cryptography",
+    "IAM",
+    "Networking"
+  ],
+  "concepts": [
+    "Threat Analysis",
+    "Incident Response",
+    "Vulnerability Management",
+    "Access Control"
+  ],
+  "experience_keywords": [
+    "security",
+    "cybersecurity",
+    "vulnerability",
+    "threat",
+    "penetration",
+    "incident"
+  ]
+}

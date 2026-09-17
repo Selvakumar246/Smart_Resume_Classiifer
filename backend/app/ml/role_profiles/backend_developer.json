@@ -1,0 +1,36 @@
+{
+  "name": "Backend Developer",
+  "category": "Software Development",
+  "description": "Server-side applications, APIs, databases, authentication, performance and distributed systems.",
+  "core_skills": [
+    "Python",
+    "Java",
+    "Node.js",
+    "FastAPI",
+    "Django",
+    "SQL",
+    "PostgreSQL"
+  ],
+  "secondary_skills": [
+    "Redis",
+    "Docker",
+    "MongoDB",
+    "GraphQL",
+    "Spring Boot"
+  ],
+  "concepts": [
+    "Microservices",
+    "REST API",
+    "Authentication",
+    "Database Normalization",
+    "Caching"
+  ],
+  "experience_keywords": [
+    "backend",
+    "api",
+    "database",
+    "server",
+    "endpoints",
+    "server-side"
+  ]
+}

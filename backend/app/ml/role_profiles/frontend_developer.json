@@ -1,0 +1,33 @@
+{
+  "name": "Frontend Developer",
+  "category": "Software Development",
+  "description": "Responsive interfaces, design systems, accessibility, web performance and browser applications.",
+  "core_skills": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "TypeScript",
+    "React"
+  ],
+  "secondary_skills": [
+    "Next.js",
+    "Tailwind CSS",
+    "Redux",
+    "Svelte",
+    "Figma"
+  ],
+  "concepts": [
+    "Responsive Design",
+    "Accessibility",
+    "Web Performance",
+    "DOM Manipulation"
+  ],
+  "experience_keywords": [
+    "frontend",
+    "ui",
+    "ux",
+    "interface",
+    "component",
+    "styling"
+  ]
+}

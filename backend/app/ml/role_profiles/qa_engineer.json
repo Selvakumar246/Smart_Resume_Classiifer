@@ -1,0 +1,35 @@
+{
+  "name": "QA Engineer",
+  "category": "Software Development",
+  "description": "Quality assurance, manual and automated testing, bug tracking, and release quality verification.",
+  "core_skills": [
+    "Testing",
+    "Unit Testing",
+    "Integration Testing",
+    "Selenium",
+    "Cypress",
+    "Git"
+  ],
+  "secondary_skills": [
+    "Jest",
+    "JavaScript",
+    "Python",
+    "Jira",
+    "API Testing"
+  ],
+  "concepts": [
+    "Test Automation",
+    "Regression Testing",
+    "SDLC",
+    "Bug Tracking"
+  ],
+  "experience_keywords": [
+    "testing",
+    "qa",
+    "test",
+    "bugs",
+    "quality",
+    "selenium",
+    "cypress"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Cloud Engineer",
+  "category": "Infrastructure",
+  "description": "Cloud infrastructure, scalable services, networking, automation, reliability and cost optimization.",
+  "core_skills": [
+    "AWS",
+    "Azure",
+    "GCP",
+    "Linux",
+    "Terraform"
+  ],
+  "secondary_skills": [
+    "Docker",
+    "Kubernetes",
+    "CloudFormation",
+    "IAM",
+    "Networking"
+  ],
+  "concepts": [
+    "Cloud Architecture",
+    "Serverless",
+    "Security Groups",
+    "Virtual Private Cloud"
+  ],
+  "experience_keywords": [
+    "cloud",
+    "aws",
+    "azure",
+    "gcp",
+    "hosting",
+    "migration"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Software Engineer",
+  "category": "Software Development",
+  "description": "General software engineering, object-oriented programming, testing, system design and product development.",
+  "core_skills": [
+    "Python",
+    "Java",
+    "C++",
+    "C#",
+    "Git",
+    "REST API",
+    "SQL"
+  ],
+  "secondary_skills": [
+    "Docker",
+    "Go",
+    "TypeScript",
+    "Testing",
+    "Algorithms",
+    "Data Structures"
+  ],
+  "concepts": [
+    "OOP",
+    "Design Patterns",
+    "CI/CD",
+    "System Design"
+  ],
+  "experience_keywords": [
+    "develop",
+    "engineer",
+    "software",
+    "architecture",
+    "codebase"
+  ]
+}

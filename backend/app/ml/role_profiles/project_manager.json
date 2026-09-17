@@ -1,0 +1,33 @@
+{
+  "name": "Project Manager",
+  "category": "Business & Management",
+  "description": "Orchestrating software projects, agile ceremonies, resource planning, sprint planning, and product delivery.",
+  "core_skills": [
+    "Project Management",
+    "Agile",
+    "Scrum",
+    "Jira",
+    "Stakeholder Management"
+  ],
+  "secondary_skills": [
+    "Product Management",
+    "Documentation",
+    "Excel",
+    "Communication",
+    "Budgets"
+  ],
+  "concepts": [
+    "Sprint Planning",
+    "Roadmaps",
+    "Risk Mitigation",
+    "Agile Methodologies"
+  ],
+  "experience_keywords": [
+    "project manager",
+    "scrum master",
+    "agile",
+    "delivery",
+    "roadmap",
+    "sprint"
+  ]
+}

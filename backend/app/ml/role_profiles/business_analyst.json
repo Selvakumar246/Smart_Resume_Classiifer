@@ -1,0 +1,32 @@
+{
+  "name": "Business Analyst",
+  "category": "Business & Management",
+  "description": "Requirements analysis, process improvement, stakeholder communication, reporting and business intelligence.",
+  "core_skills": [
+    "Business Analysis",
+    "Requirements Gathering",
+    "SQL",
+    "Excel",
+    "Jira"
+  ],
+  "secondary_skills": [
+    "Power BI",
+    "Tableau",
+    "Documentation",
+    "Stakeholder Management",
+    "Process Mapping"
+  ],
+  "concepts": [
+    "Agile Methodology",
+    "Requirements Specification",
+    "Gap Analysis",
+    "UML Diagrams"
+  ],
+  "experience_keywords": [
+    "analyst",
+    "business analyst",
+    "requirements",
+    "stakeholders",
+    "process"
+  ]
+}

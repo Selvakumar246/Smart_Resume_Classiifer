@@ -1,0 +1,33 @@
+{
+  "name": "Network Engineer",
+  "category": "Security & Networking",
+  "description": "Designing, implementing, and managing computer networks, routing, switching, and firewall security.",
+  "core_skills": [
+    "Networking",
+    "TCP/IP",
+    "DNS",
+    "VPN",
+    "Linux"
+  ],
+  "secondary_skills": [
+    "Cisco",
+    "Firewalls",
+    "Wireshark",
+    "AWS",
+    "Network Security"
+  ],
+  "concepts": [
+    "Routing Protocols",
+    "Subnetting",
+    "Network Topology",
+    "Load Balancing"
+  ],
+  "experience_keywords": [
+    "network",
+    "networks",
+    "routing",
+    "switching",
+    "firewall",
+    "cisco"
+  ]
+}

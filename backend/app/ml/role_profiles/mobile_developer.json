@@ -1,0 +1,34 @@
+{
+  "name": "Mobile Developer",
+  "category": "Software Development",
+  "description": "Native and cross-platform mobile application development for iOS and Android devices.",
+  "core_skills": [
+    "Kotlin",
+    "Swift",
+    "React Native",
+    "Flutter",
+    "JavaScript"
+  ],
+  "secondary_skills": [
+    "Java",
+    "TypeScript",
+    "REST API",
+    "Xcode",
+    "Android Studio"
+  ],
+  "concepts": [
+    "Mobile UI",
+    "App Store Guidelines",
+    "State Management",
+    "Offline Storage"
+  ],
+  "experience_keywords": [
+    "mobile",
+    "ios",
+    "android",
+    "app",
+    "apps",
+    "react native",
+    "flutter"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Data Engineer",
+  "category": "Data & AI",
+  "description": "Designing and building pipelines for data ingestion, processing, warehousing, and analytics infrastructure.",
+  "core_skills": [
+    "Python",
+    "SQL",
+    "PostgreSQL",
+    "AWS",
+    "Spark"
+  ],
+  "secondary_skills": [
+    "Docker",
+    "Kubernetes",
+    "Linux",
+    "Airflow",
+    "Kafka"
+  ],
+  "concepts": [
+    "ETL",
+    "Data Pipelines",
+    "Data Warehousing",
+    "Data Lake",
+    "Big Data"
+  ],
+  "experience_keywords": [
+    "data pipeline",
+    "pipelines",
+    "etl",
+    "warehouse",
+    "ingestion"
+  ]
+}
